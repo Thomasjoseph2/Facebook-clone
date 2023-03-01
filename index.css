@@ -1,0 +1,144 @@
+.header{
+    background: #3b5998;
+    width: 100%;
+    height: 90px;
+}
+body{
+    margin: 0;
+    font-family: Helvetica Neue,Arial, Helvetica, sans-serif;
+}
+.logo{
+    width: 50%;
+    padding-top: 36px;
+    float: left;
+}
+.login{
+    width: 50%;
+    float: left;
+    padding-top: 10px;
+    padding-top: 21px;
+}
+.logo-text{
+    color: white;
+    font-size: 38px;
+    font-weight: bold;
+    text-decoration: none;
+    padding:130px;
+    font-family: Helvetica Neue,Helvetica,Arial, sans-serif;
+}
+.login-label{
+    color: aliceblue;
+    font-size: 13px;
+}
+.login-controles{
+    padding-left: 100px;}
+    
+    
+.forgotten{
+    color: rgb(158, 154, 154);
+    text-decoration: none;
+    font-size: 13px;
+}
+.submitbutton{
+    background-color: #4267b2;
+    border-color:#3967c3;
+    color: aliceblue;
+    height: 20px;
+    width: 50px;
+    cursor: pointer;
+}
+.submitbutton:hover{
+    background: rgb(62, 62, 211);
+}
+.left-section{
+    width: 40%;
+    float: left;
+    padding-left: 135px;
+    padding-top: 50px;
+}
+.right-section{
+    width:30%;
+    float: left;
+    padding-left: 93px;
+}
+.main-body{
+    background: #efefef;
+    width: 100%;
+    height: 650px;
+}
+.fbimage{
+    width: 50%;
+    width: 569px;
+    height: 229px
+}
+.paragraph{
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(16, 16, 87);
+}
+.sentance1{
+    margin-top: 46px;
+    font-weight: bold;
+    font-size: 37px;
+}
+.sentance2{
+    margin-top: -20px;
+}
+.details{
+    height: 27px;
+    width: 210px;
+    
+    border-radius: 2px;
+    border-style: none;
+    border-color: rgb(185, 183, 183);
+}
+#mobile{
+    width:432px ;margin-top: 15px;
+}
+.birthday{
+    font-size: 15px;
+    color: grey
+}
+.selection{
+    border-color: rgb(158, 148, 148);
+    border-style: none;
+
+}
+.para{
+font-size: 12px;
+}
+.link{
+    text-decoration: none;
+}
+.signup{
+    background: green;
+    color: white;
+    width: 150px;
+    height: 30px;
+    border-radius:5px ;
+    border-color: green;
+    margin-top: 5px;
+    font-size: 14px;
+    font-weight: bold;
+}
+#parag{
+    margin-top: 30px;
+    font-size: 15px;
+}
+.footer
+{
+    text-align: center;
+    color: blue;
+    cursor: pointer;
+}.facebook{
+    color: black;
+}
+.languages{
+    font-size: 15px;
+}
+.first{
+    width :75px;
+}
+.second{
+    width: 66px;
+}
